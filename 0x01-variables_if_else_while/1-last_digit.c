@@ -6,7 +6,7 @@
  * main - Entry
  *
  * Description: 'this is the program description'
- * Returns: Always 0
+ * Return: Always 0
  */
 int main(void)
 {
