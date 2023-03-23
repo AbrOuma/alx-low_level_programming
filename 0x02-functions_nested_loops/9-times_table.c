@@ -2,7 +2,6 @@
 
 /**
  * times_table - print the 9 times table
- *
  */
 void times_table(void)
 {
@@ -12,7 +11,7 @@ void times_table(void)
 	{
 		_putchar('0');
 
-		for (mult = 1; mult <= 0; mult++)
+		for (mult = 1; mult <= 9; mult++)
 		{
 			_putchar(',');
 			_putchar(' ');
